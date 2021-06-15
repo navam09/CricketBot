@@ -6,6 +6,7 @@ YOu can use the following commands for getting commentary and full score card:
 1.  /score  : Commentary
 2.  /full   : Full Score Card
 
+** For running the application, replace the variable 'url_comm' with the commentary section URL of live match and 'url' with the scorecard section URL of the live match on Cricbuzz website.
 
 Here are some Screen shots of the bot.
 ![Screenshot (171)_LI](https://user-images.githubusercontent.com/46834333/121800089-70167480-cc4d-11eb-932b-6d21d3ed71cb.jpg)
